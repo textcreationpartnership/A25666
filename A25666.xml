@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anti-projector, or, The history of the Fen project</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25666</idno>
+            <idno type="STC">Wing A3504</idno>
+            <idno type="STC">ESTC R27192</idno>
+            <idno type="EEBO-CITATION">09692084</idno>
+            <idno type="OCLC">ocm 09692084</idno>
+            <idno type="VID">44008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44008)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1348:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Anti-projector, or, The history of the Fen project</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1646?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reclamation of land --  England.</term>
+               <term>Fens, The (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44008:1" rendition="simple:additions"/>
+            <head>THE <hi>ANTI-PROJECTOR</hi> OR The Hiſtory of the Fen Project.</head>
+            <p>IT's auſual queſtion, <hi>Whether drayning be good for the Common wealth.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. There are two kindes of legal drayning. The one is by the anci<g ref="char:EOLhyphen"/>ent Commiſſions of Sewers, according to the 23 <hi>H.</hi> 8. where the Commiſ<g ref="char:EOLhyphen"/>ſioners of Sewers and Jurors are to be of the ſame County where the land ly<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th; who once or twice every year, if occaſion required, ought to view the wants of ſcowring the old Drains, and to return the defaulters to the Commiſſio<g ref="char:EOLhyphen"/>ners, who uſed to aſcertain their Amerciaments.</p>
+            <p>The ſecond is according to a Law made in the 43 <hi>Eliz.</hi> whereby the major part of the owner, and Commonners of any Townſhip may agree with any per<g ref="char:EOLhyphen"/>ſon or Corporation for a certain ſum of money under their hands and ſeals inden<g ref="char:EOLhyphen"/>ted, for the drayning of ſuch lands, as they finde hurtfully ſurrounded. This is alſo Legal and good for the Common-wealth, becauſe it is with their free conſents.</p>
+            <p>It may be objected, <hi>Why hath not the Country Drayned themſelves all this while?</hi>
+            </p>
+            <p>The Countries have been alwaies able and willing; but for theſe fifty years or thereabouts their legal Commiſſioners, according to the 23 of <hi>H.</hi> 8. have been obſtructed by powerful undertakers, Courtiers, Lord-keepers, Atturnies-Gene<g ref="char:EOLhyphen"/>ral, and Projectors, and diſſolutions, and intervals of Parliament: The which Law if it had been conſtantly put in execution, without theſe groſs interrupti<g ref="char:EOLhyphen"/>ons, would have done the work in moſt Towns where need required within the ſup<g ref="char:EOLhyphen"/>poſed Level. For without doubt the ſtopping of the old Draynes is the cauſe of all their new miſchiefs.</p>
+            <div type="part">
+               <head>Illegal Drayning.</head>
+               <p>All the illegal undertakers have pretended they had the conſents of the Countries to be drayned by them, which alwaies hath been the ground of their cheat from the beginning. <hi>(viZ.)</hi>
+               </p>
+               <p>The firſt notorious undertaker was the Earl of <hi>Lincoln,</hi> in Queen <hi>Elizabeths</hi> dayes. His covetous Lordſhip by bribes to ſome Courtiers, and miſ-information by pretending what a glorious work drayning would be to the Publick, and that he had the conſent of the Country which indeed were but an inconſiderable party of
+<pb n="2" facs="tcp:44008:2"/>his own faction) procured a Pattent or Commiſſion for the drayning of the Fens But his private ends were to drain his own ſurrounded foul lands at the Public charges; and he ſo packed his Commiſſioners, by making them Judges and Par<g ref="char:EOLhyphen"/>ties, that they made a Level and took away the poor Country-mens lands (which were never drowned, or bettered by overflowing) for melioration.</p>
+               <p>The Queen being informed how her good Subjects were abuſed, and that the ſaid Commiſſion was contrary to the Law of Sewers, <hi>(viz.)</hi> 23. <hi>H.</hi> 8. She there<g ref="char:EOLhyphen"/>upon made that juſt and equitable Law, ſo conſonant to nature and reaſon, for the moſt ſtrict preſervation of propriety, called, The Statute of Improvement in the forty third year of her raign. Which Law preſcribes the Rule to undertaking, or contracting. <hi>viz.</hi> Firſt there muſt be fairly and freely obtained the conſents of the major part of the owners and Commoners under their hands and ſeals indented So that the Commiſſioners of Sewers have nothing to do with the matter and man<g ref="char:EOLhyphen"/>ner of undertaking. Neither is a Commiſſioner of Sewers capable to be in un<g ref="char:EOLhyphen"/>dertaker, for then he ſhould be both Judge and Party, and ſo to contract with him<g ref="char:EOLhyphen"/>ſelf which were abſurd.</p>
+               <p>
+                  <hi>Primo Jacobi,</hi> Sir <hi>Miles Sandys</hi> having purchaſed ſome hurtfully ſurrounded lands; to drain himſelf though to the drowning of his neighbours (by bribes to Courtiers procured a Commiſſion to drain the Fens, and got himſelf and his par<g ref="char:EOLhyphen"/>ticipants to be made Commiſſioners, and conſequently judges and Parties. Then they made a Level, and brought in thoſe Towns of <hi>Cambridge</hi> ſhire, on the South-ſide the River Graunt to be part of the Level, or hurtfully ſurrounded grounds, which words are convertible; and they contracted with themſelves, and gave to themſelves one third part of thoſe lands for draining and melioration, moſt part of which lands being in truth dry grounds, or bettered by overflowing, or at leaſt able to drain themſelves, by clenſing the old Sewers, had not the Legal Commiſ<g ref="char:EOLhyphen"/>ſions of Sewers been obſtructed by theſe undertakers.</p>
+               <p>This Project was wittily diſcovered to King <hi>James</hi> in the beginning of his raign; for one told the King he ſhould hear a Cow ſpeak, which the King wondered at, and was perſwaded to go to his Stables at <hi>Theobalds,</hi> where the Cow was covered all over. The King commanded the Company to withdraw; and uncovered the Cow, and upon the horns, there was a large Parchment rolled up, and all the un<g ref="char:EOLhyphen"/>dertakers fallacies diſcovered therein. The King enjoyned ſecrecy, and in full Par<g ref="char:EOLhyphen"/>liament ſpake againſt it in theſe words; <hi>It is juſt the ſame Caſe, my Lords, as though a pack of Theeves ſhould give me</hi> 20000. l. <hi>to give them a Patent under my broad ſeal to rob my loyal Subjects of</hi> 200000 l. <hi>by the which I ſhould perjure my ſelf, and become a Thief and Tyrant.</hi> And thereupon it was thrown out for a Project. Some of the undertakers friends preſſed earneſtly that the Countries might bear their charges, Sir <hi>Edward Cook</hi> replyed, <hi>Let thoſe pay them that ſet them on work.</hi>
+               </p>
+               <p n="19">19. <hi>Jacobi.</hi> The King himſelf turned undertaker, contrary to his ſpeech in Par<g ref="char:EOLhyphen"/>liament, and contrary to the Acts made 43 <hi>Eliz.</hi> and the fourth and ſeventh of his Raign. The occaſion the King brake that Parliament, was for his
+<pb n="3" facs="tcp:44008:2"/>favourites ſake, whoſe brother (Sir <hi>Edward Villiers</hi>) was queſtioned for a Mo<g ref="char:EOLhyphen"/>nopoliſt.</p>
+               <p>Obſerve this undertaking of 19 <hi>Jacobi</hi> was the foundation of <hi>Francis E.</hi> of <hi>Bed<g ref="char:EOLhyphen"/>fords</hi> undertaking, as it appears in their <hi>Lyn</hi> Law, where the Bribe given to the King is nearly couched, which was 12000 acres of our lands.</p>
+               <p>After King Charles had condemned Loan money by the Petition of Right, and had often broke his own Law, then the Projectors ſwarmed again, for they knew the King was irreconcilable to Parliaments, and all things were carried with a high hand, and thoſe moſt renowned udges chief juſtice <hi>Crew,</hi> and chief Baron <hi>Walter,</hi> were diſgraced, and the Judges Patents were altered, and thoſe words, <hi>Quam diu ſe bene geſſerit</hi> expunged, and thoſe Prerogative words inſerted, <hi>Ad bene placitum Domini Regis.</hi>
+               </p>
+               <p>This was a fit ſeaſon to Monopolize, and in this interval of Parliaments, <hi>Fran<g ref="char:EOLhyphen"/>ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Earl of <hi>Bedford,</hi> the Lord Treaſurer <hi>Weſton,</hi> the Earl of <hi>Dorſet,</hi> the Earl of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in<g ref="char:EOLhyphen"/>ſey</hi> and his ſon, the Lord <hi>Mowbray,</hi> Lord <hi>Gorge,</hi> Sir <hi>Edward Heron,</hi> Sir <hi>John Brook,</hi> Sir <hi>David Coningham,</hi> Mr. <hi>Latch,</hi> Sir <hi>John Munſon,</hi> Sir <hi>Philbert Vernatt,</hi> with many more of the Kings Party turned undertakers, and gave bribes to the King, Queen, and Lords of the Councel, Secretaries, Attournyes General, and Courtiers, and procured illegal Commiſſions, and made themſelves Judges and Parties, and gave the peoples lands to themſelves, as Commiſſioners and undertakers, which are inconſiſtent for the reaſons premiſed.</p>
+               <p>At <hi>Kingſ-Lyn,</hi> 6 <hi>Caroli.</hi> They pretended they had the Major part of the Ow<g ref="char:EOLhyphen"/>ners and Commoners conſents, which if they can ſhew under our hands and ſeals according to the 43 <hi>Eliz.</hi> we are content they ſhall enjoy our lands: we are ready to joyn Iſſue with them upon that point, and ſo are thoſe of the Iſle of <hi>Axom</hi> a<g ref="char:EOLhyphen"/>gainſt Mr. <hi>Gibbons.</hi>
+               </p>
+               <p>Likewiſe thoſe which oppoſe the Earl of <hi>Linſey,</hi> Sir <hi>Anthony Thomas,</hi> Sir <hi>John Murſon,</hi> Sir <hi>Cornelius Vermooden,</hi> and others, are ready to prove all their underta<g ref="char:EOLhyphen"/>kings have been againſt the Countries Conſents, and that they have been both Commiſſioners, and undertakers, Judges and Parties, which is againſt the Law of God, Nature, and common Reaſon.</p>
+               <p>By the ſame reaſon theſe packed Commiſſioners being Judges and Parties, made 300000 acres the Level, (very much of which land is dry, or bettered by over<g ref="char:EOLhyphen"/>flowing) they may make <hi>England</hi> the Level, <hi>England</hi> to be ſurrounded, and take one third this year for drayning, and another third the next for melioration, and the third take all by their Prerogative.</p>
+               <p>The ſix Counties Petitioned King <hi>Charles</hi> at <hi>Newmarket</hi> againſt <hi>Lyn</hi> Law, which was condemned at a Seſſion of Sewers held at <hi>Huntington,</hi> 14 <hi>Car.</hi> Before this the people were Purſuvanted, impriſoned by Councel Table warrants, and their Hay taken off their C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res, and the ſix Counties were moſt grievouſly op<g ref="char:EOLhyphen"/>preſſed.</p>
+               <p>Afterwards the King turned undertaker himſelf, and ſo our oppreſſion continued,
+<pb n="4" facs="tcp:44008:3"/>for the Comiſſioners were ſtill Judges and Parties, and took away our lands a<g ref="char:EOLhyphen"/>gainſt our conſents.</p>
+               <p>In the beginning of the laſt Parliament when <hi>Francis</hi> Earl of <hi>Bedford</hi> was mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord Treaſurer, then by his power and faction in the Lords Houſe, a Bill was ex<g ref="char:EOLhyphen"/>hibited to the Parliament by ſome of the undertakers for drayning, againſt the peoples conſents, but that bill dyed with him.</p>
+               <p>Afterwards when <hi>William</hi> Earl of <hi>Bedford</hi> was made General of the Parlia<g ref="char:EOLhyphen"/>ments Horſe, there was a bill for drayning committed; there was a Committee of 30 or 40. and they ſate in the Court of Exchequer, and Mr. <hi>Pelham</hi> had the Chair. The Earl was there preſent himſelf, and ſome Parliament men which were the ſaid Earls participants were very active, and ſate at the Committee as Judges, and Parties. Upon a long debate that bill was overthrown.</p>
+               <p>About two years after (when <hi>William</hi> Earl of <hi>Bedford,</hi> and Mr. <hi>Henly</hi> returned from <hi>Oxford</hi>) there was a ſhort Ordinance for drayning committed. The Commit<g ref="char:EOLhyphen"/>tee ſate in the Star-chamber and the ſix Counties were ſummoned, and there was an extraordinary appearance againſt the undertakers; Mr. <hi>Scowen</hi> had the Chair, and the people cryed out, no Mr. <hi>Scowen,</hi> for he was <hi>Francis</hi> Earl of <hi>Bedford</hi>'s Sollicitor. This Committee was furniſh'd with too many undertakers of Parliment men. There were at leaſt twelve ſeveral Chairmen of that Committee, and moſt of them byaſ<g ref="char:EOLhyphen"/>ſed for the undertakers, for no witneſſes were fairly examined for the ſix Counties, but leading Interrogatories obtruded upon them: not one Town of ten were ex<g ref="char:EOLhyphen"/>amined at all, when the ſix Counties attended there were commonly two or three undertakers who adjourned the Committee in <hi>Westminſter</hi>-hall on purpoſe to vex and tire the people; when the people had ſpent their money and were gone out or town, then the Committee ſate in one corner or another, ſo that their ſollicitors were fain to watch them. The Committee-men were often feaſted by the undertakers, and our lands were offered to be ſold at two years value to Parliament men, which was often complained of to the Parliament by ſome worthy Patriots. This great (not good bargain) increaſed very much their faction: yet providence (which hath done wonders) blafted this Ordinance that it withered away to nothing.</p>
+               <p>About four years ſince there was a new Act ſet on foot, and the ſix Counties were ſurpriſed, for they were not, as formerly, ſo much as ſummoned. This Act was a child of darkneſs, for it could not endure the light. We are informed the Chairman uſhered in this Act, with a Petition like unto that at <hi>Kingſ-Lyn,</hi> as though it proceeded from the Major part of the owners, and Commoners, but it was a meer impoſture of the undertakers faction, and not one of a hundred.</p>
+               <p>The Houſe was very thin when this Act was paſſed, about 43. and ſome of them were parties interreſſed, and the undertakers of all the Levels, like birds of a feather flocked together and watched their oppertunity when many of the unintereſſed Parliament-men were abſent: If the truth were known there was no Houſe, be<g ref="char:EOLhyphen"/>cauſe there was an Order, That no Parliament man being a participant, ſhould be Judge and Party in his own Cauſe.</p>
+               <pb n="5" facs="tcp:44008:3"/>
+               <p>For the Act it ſelf, it is a formidable monſter. The Title and Preamble is like a Sarazens head and neck, the Body is proportionable, and worſe then that, and the concluſion worſt of all. We ſhall make it appear to be againſt the Law of God, nature, reaſon and common ſenſe: For firſt, They have enacted parties intereſſed to be Judges. Secondly, they have enacted impoſſibilities, as wet to be dry, and dry wet <hi>(viz.)</hi> that to be the Level which is not the Level: they may as well enact white to be black, and black white. Thirdly, This Act deſtroys Propriety. Fourthly, the Earl of <hi>Bedfords</hi> Pan <hi>Thorney Abby</hi> is exempted from draining; when dry land, and ſuch as is bettered by overflowing, muſt contribute. Fifthly, they have deſtroyed a chief branch of the Common Law, in depriving the people of their Juries of the neighbourhood. Sixthly, they have enacted a moſt intolle<g ref="char:EOLhyphen"/>rable grievance in impowring the Commiſſioners to make the people dance atten<g ref="char:EOLhyphen"/>dance a hundred miles from their homes every ſeaventh day after the Term, to at<g ref="char:EOLhyphen"/>tend them for four or five hours, to ſpend their monies, and have no agrievance re<g ref="char:EOLhyphen"/>dreſſed, ſometimes no Committee appearing, whereas anciently according to Law and equity; for the eaſe of the ſix Counties, This Level was ſeaven Levels, and each Level had their ſeveral Commiſſioners and Iurors, and acted only in their proper Countries. We ſhall diſcover many more inſufferable grievances, if the Supreme Authority pleaſe to hear us by witneſſes upon Oath. And we hope their Honours in their wiſdoms will take care we ſhall not be obſtructed by Judges and Parties, and biaſſed Chairmen, as formerly we have been.</p>
+               <p>The Undertakers have had two Adjudications which they much boaſt of. The firſt was when many thouſand acres were actually drowned, occaſioned by land-flouds, incident to River-Medows; yet contrary to occular demonſtration, they were adjudged drained.</p>
+               <p>The other was in the extremity of the drought, when it was impoſſible to judge what land was drained, and what not. And they have adjudged thouſands of acres drained, which were never drowned, and thouſands drowned which are bettered by overflowing in the nature of River-Meadows.</p>
+               <p>The people are put out of poſſeſſion of their lands without hearing one witneſs upon oath on their parts, which is againſt the fundamental Law of the Land, and the great Charter of Liberty and property.</p>
+               <p>The <hi>Lincolneſhier</hi> men in the Iſle of <hi>Axom,</hi> had the benefit of the Law againſt Mr. <hi>Gibbons,</hi> and they have a verdict againſt him, Sr. <hi>Edward Barkham,</hi> Captain <hi>Hall</hi> and Mr. <hi>Waldren</hi> were left to the Law by the Parliament, and recovered againſt the Undertakers. But we of the ſix Counties have been ſo obſtructed in the E. of <hi>Bed<g ref="char:EOLhyphen"/>fords</hi> Level by the Undertakers faction, that we are barred the Law by this Act of Parliament. But we hope the Supreme Authority will remove this block out of the way, and leave us to the Law, as other free-born people of this Nation are.</p>
+               <p>In the Parliaments firſt grand Remonſtrance 1641. this levelling and deſtroying of propriety was voted, <hi>An injuſtice, oppreſſion, violence, project and grievance.</hi> And in more expreſs words, thus, Large quantities of Commons and Severals have
+<pb n="6" facs="tcp:44008:4"/>been taken from the Subject by the colour of the Statute of Improvement, and by abuſe of the Commiſſion of Sewers, without their conſents and againſt it. So the Undertakers were the true Levellers, for they created the equivocal word Level.</p>
+               <p>Compare theſe Votes with the late Act for Draining, and you may obſerve moſt groſs contradictions, for iniquity <hi>viz</hi>) injuſtice, oppreſſion violence, project and grievance are eſtabliſhed by a Law, which is not to be wondred at, becauſe it proceeded from the barren womb of ſelf-intereſt; but the fertile womb of the pub<g ref="char:EOLhyphen"/>lique (which is ſelf-denyal) will help it in good time.</p>
+               <p>We believe the Undertakers will be endeavouring to ſell our Lands again (as formerly they were) at two years value to gain a new faction; but we are confident of better things, and that at laſt their bribing diſhoneſt proceedings, and their pro<g ref="char:EOLhyphen"/>ject will be deſtroyed together.</p>
+               <p>The E. of <hi>Bedford</hi> and his participants Caſe is the ſame with thoſe fore-recited Caſes of the E. of <hi>Lincoln,</hi> and Sir <hi>Mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es Sandys,</hi> both pretending the publick, but intending only their private ends, and groſs partialitie (if it be dived into) will be found in the bottom of it. For the E. of <hi>Bedfords</hi> large Mannor of <hi>Thorney Abby,</hi> conſiſting of 20000 acres of hurtfully ſurrounded Lands muſt be partly drained, and partly meliorated at the Countries charge; and 20 Towns muſt be pejorated by the draining the Earls foul Town. And dry lands, and ſuch lands as are bettered by overflowing, muſt contribute to drain the E. of <hi>Bedfords</hi> lands, and the Earls really hurtfully ſurrounded lands are not to be contributory (by the ſaid Act) to draining.</p>
+               <p>In all the undertakings (which are the ſame Caſes <hi>Mutatis Mutandis</hi>) there are 300000 people concerned in it, which have furniſhed the Parliament with many thouſand men, horſes, and vaſt ſums of money, beſides the praiers of a numerous godly precious people. And thoſe few undertakers, upon this account only, have moſt of them been moſt malicious enemies againſt the Parliament; for ſome of them had like to have ſlain the Lord <hi>Fairfax</hi> in the Iſle of <hi>Axom</hi> who was reſcued by the anti undertakers. He that will forſake old friends, and truſt to reconciled enemies, rans a great hazard, or rather will be certainly ruined. <hi>Can a Blackmore change his skin?</hi>
+               </p>
+               <p>We hope that the four Undertakers nominated in the Act, ſhall he examined upon Oath, who are their participants; for we have juſt cauſe of jealouſie, many of the Commiſſioners are judges and parties.</p>
+               <p>If any of the Commiſſioner in this Act are participants in another Level, the grie<g ref="char:EOLhyphen"/>vance is the ſame; for our fellow ſufferers in the Earl of <hi>Linſeyls</hi> Level, were much obſtructed by a participant in the Earl of <hi>Bedfords</hi> Level, who was ſometime Chairman for S. <hi>William Killegrew</hi> in the Earl of <hi>Linſeys</hi> Level, and all the partici<g ref="char:EOLhyphen"/>pants of all the Levels, and their allies and friends joyn and combine together a<g ref="char:EOLhyphen"/>gainſt the poor Country.</p>
+               <p>The Undertaker talk of great matters that will <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the Commonwealth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rape; I am ſure they have committed a Rape upon the Republique, in raviſh<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:44008:4"/>the good People of this Nation (by their Tyranny and Oppreſſion) out of their Properties and Liberties. I hope we ſhall be left at liberty to make choice of our own undertakers, if need require, according to the 43 <hi>Elizab.</hi> And that the Parliaments faithful Friends, ſhall not be the Earl of <hi>Bedford</hi>'s and Maſter <hi>Henley</hi>'s Wardes any longer. Is it probable ſtrangers will do us more good, and ſtudy our profit more then we will do our own? Certainly we know how to drain our ſelves better then they, (might we have the benefit of the good Laws of the Land) and are better able.</p>
+               <p>As the Courtiers thought (after the Parliament was diſſolved in 3 <hi>Car.</hi> and the Pe<g ref="char:EOLhyphen"/>tition of Right was broken as ſoon as it was made they were cock-ſure to perpetuate their Tyranny, and that they ſhould never have been queſtioned; ſo the undertakers and their faction in Parliament had the ſame thoughts (which is demonſtrable by their actions) and are come by Divine Providence to the ſame end.</p>
+               <p>As the over flowing corruptions of the undertakers faction (being Judges and Parties) did hurtfully ſurround the Parliament: So certainly it was good for the Commonwealth they ſhould be drayned and meliorated, and it is according to the Statute of Improvement or Undertaking <hi>viz.</hi> the 43 <hi>Elizab.</hi> For I am ſure the major part of the Owners and Commoners of the Earl of <hi>Bedford</hi>'s Level, will conſent unto it under their Hands and Seals In<g ref="char:EOLhyphen"/>dented.</p>
+               <p>Objection, It may by objected, <hi>The Earl of</hi> Bedford<hi>'s Draynes are the beſt Draynes, and have done the work, as ſome of the Commisſioners have ad<g ref="char:EOLhyphen"/>judged.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> We anſwer, That by the new Draynes, there is very little good done, but by drayning the barren North, and drowning the rich South for private ends; as will experimentally appear at the firſt Floods which ſhall break out, which (probably) was the cauſe of the precipitation of the ad<g ref="char:EOLhyphen"/>judication.</p>
+               <p>But the old and Legal way of drayning and undertaking <hi>(viz.)</hi> by the 23 <hi>Henr.</hi> 8, and 43 <hi>Elizab.</hi> are the beſt for the Common-wealth, becauſe the old Draynes have the greateſt deſcents, and are the natural ſinks and vent of the Fens.</p>
+               <p>If a Mans fundament were ſtopped, though a hundred iſſues were made in the ſame body, the maſs of blood would be corrupted, and the bodie would break out in Botches and Boyles. So ſtop up the old Sewers the Quagmires will generally increaſe on the South-ſide though much good may bee done on the North-ſide to ſome particular Towns, as <hi>Thorncy,</hi> and <hi>Wittleſey,</hi> which drowns the Soake of <hi>Peterborow</hi> conſiſting of twenty Towns.</p>
+               <p>Objection, <hi>The Earl ſay they hath made a rich Improvement out of the great Level which was before of little or no value. Now it bears Rape, and Cole-ſeed</hi> &amp;c.</p>
+               <pb n="8" facs="tcp:44008:5"/>
+               <p>
+                  <hi>Anſw</hi> The undertakers have alwaies vilified the Fens, and have miſ-informed ma<g ref="char:EOLhyphen"/>ny Parliament men, that all the Fens is a meer quagmire, and that it is a level hurt<g ref="char:EOLhyphen"/>fully ſurrounded, and of little or no value: but thoſe which live in the Fens, and are neighbours to it, know the contrary.</p>
+               <p>For firſt the Fens breed infinite number of ſerviceable horſes, mares, and colts, which till our land, and furniſh our neighbours.</p>
+               <p>Secondly we breed and feed great ſtore of young cattle, and we keep great day<g ref="char:EOLhyphen"/>eries, which afford great ſtore of butter and cheeſe to victual the Navy, and mul<g ref="char:EOLhyphen"/>titude, of heyfers, and Scots and Iriſh cattle have been fatted on the Fens, which afford hides, and tallow.</p>
+               <p>Thirdly, we mow off our Fens fodder, which feeds our cowes in winter, which being houſed, we gather ſuch quantities of compoſt and dung, that it enriches our paſtures and corn ground, half in half, whereby we have the richeſt and cer<g ref="char:EOLhyphen"/>taineſt corn land in <hi>England,</hi> eſpecially for wheat and barley, wherewith by Sea) we do, and can if our navigable rivers be not made unſerviceable by the undertakers pernitious new ditches) abundantly furniſh <hi>London</hi> and the Northern parts in their neceſſities. All which fore-recited commodities make our Fens far more profitable to the owners, lying as they are for graſs, then if they were ſown with corn, rape, or cole-ſeed.</p>
+               <p>Fourthly, we keep great flocks of ſheep upon the Fens.</p>
+               <p>Fiftly, our Fens are a great relief, not onely to our neighbors the uplanders, but to remote Countries, which otherwiſe, ſom years thouſands of catle would want food.</p>
+               <p>Sixtly, we have great ſtore of Oſier, Reed, and Sedge, which are ſuch neceſſaries as the Countries cannot want them for many uſes, and ſets many poor on work.</p>
+               <p>Laſtly, we have many thouſand Cottagers, which live on our Fens, which other<g ref="char:EOLhyphen"/>wiſe muſt go a begging. So that if the undertakers take from us a third part of our Fens, they deſtroy not onely our paſtures and corn ground, but alſo our poor, and utterly diſable us to relieve them.</p>
+               <p>What is Cole-ſeed and Rape, they are but Dutch commodities, and but traſh and trumpery, and pills land, in reſpect of the fore-recited commodities, which are the rich Oare of the Common-wealth.</p>
+               <p>This Project hath proved the Philoſophers ſtone, or that accurſed thing to the undertakers, for it hath undone moſt of them that ever medled with it. The cauſe is plain, becauſe it hath proved a Grinſtone to the faces of thouſands of poor people.</p>
+            </div>
+            <epigraph>
+               <q>
+                  <p>He that oppreſſeth the Poor, reproacheth his Maker.</p>
+                  <bibl>
+                     <hi>Prov. 14.31.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44008:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
